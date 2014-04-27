@@ -1,0 +1,7 @@
+%a
+one
+two
+both
+
+%a:KEYS
+CLUSTER,TYPE

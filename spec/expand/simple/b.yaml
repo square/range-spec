@@ -1,0 +1,5 @@
+CLUSTER:
+  - three
+  - four
+  - both
+TYPE: apps
