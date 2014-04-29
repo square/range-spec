@@ -5,4 +5,9 @@ b
 # Sorted
 a,b
 b
-ac
+a
+
+# Unique
+a
+a
+a
