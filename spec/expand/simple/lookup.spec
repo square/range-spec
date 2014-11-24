@@ -4,4 +4,5 @@ two
 both
 
 %a:KEYS
-CLUSTER,TYPE
+CLUSTER
+TYPE
