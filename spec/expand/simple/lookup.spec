@@ -3,6 +3,6 @@ one
 two
 both
 
-%a:KEYS
+%b:KEYS
 CLUSTER
 TYPE
