@@ -3,3 +3,6 @@ CLUSTER:
   - two
   - both
 TYPE: db
+COMMENT:
+  - q(a comment)
+  - a1..3
