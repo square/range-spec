@@ -10,3 +10,6 @@ a
 
 has(COMMENT;a1,a2)
 a
+
+has(COMMENT;%{allclusters()}:COMMENT)
+a
