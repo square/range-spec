@@ -20,7 +20,7 @@ n10
 n11
 
 # Leading zeros fakeout
-n003..4,n01..2
+n01..2,n003..4
 n01
 n02
 n003
