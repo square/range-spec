@@ -20,7 +20,7 @@ n10
 n11
 
 # Leading zeros fakeout
-n003..4,n01..2
+n01..2,n003..4
 n01
 n02
 n003
@@ -45,3 +45,9 @@ x1
 x5
 x2
 x4
+
+# Maintain sort when we add digit columns
+x98..100
+x98
+x99
+x100
