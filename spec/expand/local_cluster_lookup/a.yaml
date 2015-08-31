@@ -1,0 +1,18 @@
+---
+SIP_BACKUP:
+- backup
+SIP_RO:
+- ro
+SIP_RW:
+- rw
+SIP_NAMES:
+- SIP_BACKUP
+- SIP_RO
+- SIP_RW
+MAIN_SIPS:
+- "$SIP_RO"
+- "$SIP_RW"
+ALL_SIPS:
+- "$$SIP_NAMES"
+ALL_SIPS_DYNAMIC:
+- "${$KEYS & /^SIP_/ - SIP_NAMES}"
