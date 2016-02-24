@@ -1,15 +1,15 @@
 has(CLUSTER;one)
-a
+abc
 
 has(CLUSTER;one,three)
-a
-b
+abc
+def
 
 has(COMMENT;q(a comment))
-a
+abc
 
 has(COMMENT;a1,a2)
-a
+abc
 
 has(COMMENT;%{allclusters()}:COMMENT)
-a
+abc

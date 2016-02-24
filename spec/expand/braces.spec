@@ -17,6 +17,12 @@ abb
 ab
 bb
 
+{a,b}{c,d}
+ac
+ad
+bc
+bd
+
 {a{a,b}}
 aa
 ab
