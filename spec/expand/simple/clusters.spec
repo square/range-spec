@@ -1,19 +1,19 @@
 clusters(one)
-a
+abc
 
 *one
-a
+abc
 
 clusters(three)
-b
+def
 
 *three
-b
+def
 
 clusters(both)
-a
-b
+abc
+def
 
 *both
-a
-b
+abc
+def

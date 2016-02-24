@@ -1,12 +1,12 @@
-%a
+%abc
 one
 two
 both
 
-%b:KEYS
+%def:KEYS
 CLUSTER
 TYPE
 
-%{b}:KEYS
+%{def}:KEYS
 CLUSTER
 TYPE
