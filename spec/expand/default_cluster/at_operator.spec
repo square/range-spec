@@ -4,3 +4,6 @@ host2
 
 @{secure}
 host1
+
+@se{cu}re
+host1
