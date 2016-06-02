@@ -1,0 +1,8 @@
+---
+qux:
+  - qqqqq1
+  - qqqqq2
+quuuux:
+  - "$qux"
+bazz:
+  - @baz

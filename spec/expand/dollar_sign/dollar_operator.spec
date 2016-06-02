@@ -6,3 +6,12 @@ $foo
 @baz
 bar1
 bar2
+
+%other_cluster:quuuux
+qqqqq1
+qqqqq2
+
+%other_cluster:bazz
+bar1
+bar2
+
