@@ -42,3 +42,6 @@ a-b
 a{a-{a,b}}
 aa-a
 aa-b
+
+a - {}
+a
