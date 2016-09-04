@@ -50,3 +50,14 @@ n1..3
 n1..2.domain3..4.com
 n1.domain3..4.com
 n2.domain3..4.com
+
+# Mixed repeated character positions
+a1a1..a1a3
+a1a1
+a1a2
+a1a3
+
+# Top is included in prefix
+a2a2a1..a2a2
+a2a2a1
+a2a2a2
