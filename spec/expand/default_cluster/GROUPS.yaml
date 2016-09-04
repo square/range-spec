@@ -4,3 +4,5 @@ dc1:
   - host2
 secure:
   - host1
+dc2:
+  - host3

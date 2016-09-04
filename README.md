@@ -15,8 +15,8 @@ Each directory contains `.spec` files with the following format:
 See `example` directory for a sample loader.
 
 Sub-directories should be traversed when searching for `.spec` files. Any
-`.yaml` files in the same directory as a spec should be used for the range
-state to evaluate the expression against.
+`.yaml` files in the same directory as a spec should be used as the range
+state to evaluate the expressions in.
 
 Drivers should verify that the library converts all examples in `spec/expand`
 from expression to result, and the reverse for `spec/compress`.
@@ -24,4 +24,4 @@ from expression to result, and the reverse for `spec/compress`.
 Status
 ------
 
-Skeleton only, very incomplete.
+Not comprehensive, but pretty good.
