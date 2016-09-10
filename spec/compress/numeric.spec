@@ -26,6 +26,12 @@ n02
 n003
 n004
 
+# Leading zeros alternate fakeout
+n001..2,n03
+n001
+n002
+n03
+
 # Changing prefix
 x1..2,y3..4
 x1
