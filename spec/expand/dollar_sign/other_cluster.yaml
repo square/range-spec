@@ -5,4 +5,4 @@ qux:
 quuuux:
   - "$qux"
 bazz:
-  - @baz
+  - "@baz"
