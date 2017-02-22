@@ -17,3 +17,11 @@ def
 *both
 abc
 def
+
+clusters(one,three)
+abc
+def
+  
+*(one,three)
+abc
+def
