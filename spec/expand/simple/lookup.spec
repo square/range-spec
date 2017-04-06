@@ -32,3 +32,5 @@ both
 CLUSTER
 TYPE
 KEYS
+
+%nocluster:KEYS
