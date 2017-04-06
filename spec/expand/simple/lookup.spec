@@ -6,10 +6,12 @@ both
 %def:KEYS
 CLUSTER
 TYPE
+KEYS
 
 %{def}:KEYS
 CLUSTER
 TYPE
+KEYS
 
 %{a}bc
 one
@@ -29,3 +31,4 @@ both
 %de{f}:KEYS
 CLUSTER
 TYPE
+KEYS
