@@ -21,7 +21,7 @@ def
 clusters(one,three)
 abc
 def
-  
+
 *(one,three)
 abc
 def
